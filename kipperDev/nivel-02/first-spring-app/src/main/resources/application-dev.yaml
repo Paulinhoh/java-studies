@@ -1,0 +1,7 @@
+# ambiente de desenvolvimento
+server:
+  port: 8080
+
+spring:
+  application:
+    name: first-spring-app
